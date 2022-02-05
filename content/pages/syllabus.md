@@ -21,12 +21,57 @@ Grading
 
 Your final grade in the course will be determined based on problem sets and exams.
 
-| Activities | Percentages |
-| --- | --- |
-| Problem Sets | 30% |
-| Take-home Midterm Exam | 30% |
-| Take-home Final Exam | 35% |
-| In-class Participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Exams and problem sets may be: (a) handed to me directly, (b) delivered to the main Linguistics and Philosophy office, or (c) sent via email. If you email your assignments keep in mind that only plain text or pdf attachments are acceptable. (This means, in particular, that documents in Microsoft® Word format are not acceptable; if you use Microsoft® Word and are unable to produce pdf documents, print your file and hand over a hard copy.) Late assignments will not be accepted without a medical excuse.
 
